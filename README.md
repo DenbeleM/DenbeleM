@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tibebu Kejela</h1>
 <h3 align="center">A passionate MERN Stack developer from Ethiopia</h3>
 <img align="right" width="400"  alt="coding" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
